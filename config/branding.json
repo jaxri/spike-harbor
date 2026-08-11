@@ -1,0 +1,28 @@
+{
+  "_note": "spike-harbor — instance brand pack (overrides over config/branding.neutral.json). Authored by `bongos init`. Fill the LOOK (palette/fonts/wordmark) with your own LLM via docs/branding-fill-prompt.md.",
+  "identity": {
+    "productName": "spike-harbor",
+    "worldName": "spike-harbor",
+    "company": {
+      "name": "",
+      "site": ""
+    }
+  },
+  "llmProjectName": "spike-harbor",
+  "domains": {
+    "publicOrigin": "http://localhost:3010",
+    "buildersOrigin": "http://localhost:3010",
+    "statusOrigin": "http://localhost:3010",
+    "oauthOrigin": "http://localhost:3010"
+  },
+  "repo": {
+    "owner": "jaxri",
+    "name": "spike-harbor"
+  },
+  "firstAdmin": "jaxri",
+  "currency": {
+    "label": "credits",
+    "symbol": ""
+  },
+  "envPrefix": "CLOUDBONGOS"
+}
